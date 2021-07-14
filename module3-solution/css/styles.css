@@ -1,0 +1,40 @@
+.navbar-header .navbar-brand
+{
+	font-size: 2em;
+	color: black;
+}
+.navbar-header .navbar-brand:hover
+{
+	color: black;
+}
+.navbar-default
+{
+	background-color: gray;
+}
+h1
+{
+	margin-bottom: 50px;
+}
+
+#main-body
+{
+	background-color: gray;
+	border-color: black;
+	border-width: 2px;
+}
+#filler-text
+{
+	font-size: 2em;
+}
+#chicken-header
+{
+	font-size: 2.3em;
+	font-weight: bold;
+	color: black;
+}
+#nav-list
+{
+	font-size: 2em;
+	color: black;
+}
+
