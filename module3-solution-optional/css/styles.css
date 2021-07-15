@@ -1,0 +1,31 @@
+.navbar-header .navbar-brand
+{
+	font-size: 2em;
+	color: black;
+}
+.navbar-header .navbar-brand:hover
+{
+	color: black;
+}
+.navbar-default
+{
+	background-color: gray;
+}
+#nav-list
+{
+	font-size: 2em;
+	color: black;
+}
+.menu-section > div
+{
+	background-color: gray;
+}
+.menu-section p
+{
+	padding-left: 5px;
+	padding-right: 5px;
+}
+#nav-list > li > a
+{
+	color: black;
+}
